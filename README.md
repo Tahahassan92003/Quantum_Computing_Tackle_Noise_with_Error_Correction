@@ -53,7 +53,7 @@ If using the Notebook run cells in order, to simulate the encoding, decoding pro
 
 https://github.com/AsadNoorKhan
 
-## How to Contribute
+## Contribute
 
 Contributions are encouraged! Feel free to open an issue or submit a pull request with your proposed changes.
 
