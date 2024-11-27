@@ -35,6 +35,7 @@ Install dependencies on Collab:
 !pip install qiskit==0.37.2
 
 Install dependencies on Vs_Code:
+
 pip install qiskit==0.37.2
 
 ## Usage
