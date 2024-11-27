@@ -3,10 +3,15 @@
 
 ## Table of Contents
 
+- [Motivation](#Motivation)
+- [Why did I build this project?](#Why did I build this project?)
+- [What problem does it solve?](#What problem does it solve?)
+- [What did I learn?](#What did I learn?)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
+- [Features](#Features)
+- [Collaborators](#Collaborators)
+- [Contribute](#How to Contribute)
 
 Motivation:
 Quantum computing promises to revolutionize industries by solving problems that classical computers cannot. However, one of the biggest challenges in scaling quantum systems is the presence of noise and errors that arise due to imperfect hardware. These errors can quickly corrupt quantum computations, leading to unreliable results. My motivation for building this project stemmed from the desire to contribute to overcoming this critical issue. By exploring quantum error correction, specifically using repetition codes, I aimed to better understand how noise affects quantum computations and how we can protect quantum information to make quantum computers more resilient.
@@ -43,6 +48,10 @@ If using the Notebook run cells in order, to simulate the encoding, decoding pro
 4. Error Detection and Correction: Handling of errors with a majority voting mechanism to ensure correct results after noise 
    interference.
 5. Decoding Techniques: Usage of the GraphDecoder and LookupTableDecoding methods for processing and correcting errors.
+
+## Collaborators
+
+https://github.com/AsadNoorKhan
 
 ## How to Contribute
 
