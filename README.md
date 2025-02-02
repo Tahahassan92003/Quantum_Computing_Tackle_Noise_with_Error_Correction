@@ -20,7 +20,7 @@ I built this project because quantum computing is still in its early stages, and
 
 What problem does it solve?
 
-This project addresses the problem of error susceptibility in quantum systems, which is a significant barrier to building reliable and scalable quantum computers. Specifically, the repetition code implementation in this project helps detect and correct bit-flip errors, a common form of quantum noise. By simulating error correction methods, this project provides a solution that ensures quantum computations remain accurate despite noisy conditions, making quantum computing more feasible for practical use.
+This project addresses the problem of error susceptibility in quantum systems, which is a significant barrier to building reliable and scalable quantum computers. Specifically, the repetition code implementation in this project helps detect and correct bit-flip errors which is a common form of quantum noise. By simulating error correction methods, this project provides a solution that ensures quantum computations remain accurate despite noisy conditions, making quantum computing more feasible for practical use.
 
 What did I learn?
 
