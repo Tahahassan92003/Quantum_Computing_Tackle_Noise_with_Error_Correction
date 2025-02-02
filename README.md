@@ -32,7 +32,7 @@ git clone https://github.com/Tahahassan92003/Tackle_Noise_with_Error_Correction
 
 Install dependencies on Collab:
 
-!pip install qiskit==0.37.2
+`!pip install qiskit==0.37.2`
 
 Install dependencies on Vs_Code:
 
