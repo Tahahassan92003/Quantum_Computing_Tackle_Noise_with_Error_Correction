@@ -36,7 +36,7 @@ Install dependencies on Collab:
 
 Install dependencies on Vs_Code:
 
-pip install qiskit==0.37.2
+`pip install qiskit==0.37.2`
 
 ## Usage
 If using the Notebook run cells in order, to simulate the encoding, decoding process, Run the last cell for a real world sample problem.
