@@ -16,7 +16,7 @@ Quantum computing promises to revolutionize industries by solving problems that 
 
 Why did I build this project?
 
-I built this project because quantum computing is still in its early stages, and to make it practical for real-world applications, we need robust error correction techniques. Quantum error correction is a fundamental building block that will allow us to scale quantum systems beyond a handful of qubits. I wanted to explore the implementation of a simple but effective error correction code—the repetition code—to understand the trade-offs between error correction complexity and its ability to protect against noise. This project not only enhances my understanding of quantum error correction but also contributes to the field by experimenting with noise resilience techniques.
+I built this project because quantum computing is still in its early stages, and to make it practical for real-world applications, we need robust error correction techniques. Quantum error correction is a fundamental building block that will allow us to scale quantum systems beyond a handful of qubits. We wanted to explore the implementation of a simple but effective error correction code—the repetition code—to understand the trade-offs between error correction complexity and its ability to protect against noise. This project not only enhances my understanding of quantum error correction but also contributes to the field by experimenting with noise resilience techniques.
 
 What problem does it solve?
 
